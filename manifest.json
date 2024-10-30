@@ -1,0 +1,20 @@
+{
+    "name": "SchmoggleheimModpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "A modpack for Schmoggleheim server",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "Advize-PlantEverything-1.18.2",
+        "Advize-PlantEasily-1.9.1",
+        "Smoothbrain-Network-1.0.2",
+        "Azumatt-AzuCraftyBoxes-1.5.4",
+        "TastyChickenLegs-AutomaticFuel-1.4.4",
+        "Smoothbrain-Afterdeath-1.0.5",
+        "Smoothbrain-CombatOwner-1.0.0",
+        "Azumatt-AzuExtendedPlayerInventory-1.4.5",
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.9",
+        "Smoothbrain-PassivePowers-1.1.2",
+        "JereKuusela-Server_devcommands-1.84.0"
+    ]
+}
