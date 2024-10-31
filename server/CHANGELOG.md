@@ -6,3 +6,6 @@
 
 # 1.0.3
 - remove all but smoothbrain
+
+# 1.1.0
+- remove mods that caused issues on server
