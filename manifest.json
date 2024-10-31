@@ -4,7 +4,6 @@
     "website_url": "https://github.com/thunderstore-io",
     "description": "A modpack for Schmoggleheim server",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2202",
         "Advize-PlantEverything-1.18.2",
         "Advize-PlantEasily-1.9.1",
         "Smoothbrain-Network-1.0.2",
