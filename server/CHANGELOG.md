@@ -9,3 +9,6 @@
 
 # 1.1.0
 - remove mods that caused issues on server
+
+# 1.2.0
+- remove devcommands
