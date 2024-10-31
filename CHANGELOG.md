@@ -1,2 +1,2 @@
-# 1.0.1
-- afterdeath mod causing infinite loading screen
+# 1.1.0
+- remove afterdeath mod; causing infinite loading screen
