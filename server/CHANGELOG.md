@@ -12,3 +12,6 @@
 
 # 1.2.0
 - remove devcommands
+
+# 1.3.0
+- remove afterdeath
