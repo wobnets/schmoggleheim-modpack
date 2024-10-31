@@ -1,3 +1,3 @@
-# Schmoggleheim Modpack
+# Schmoggleheim Valheim Modpack
 
-Client and server modpacks for Schmoggleheim Valheim server
+Thunderstore modpack for Schmoggleheim Valheim server.
